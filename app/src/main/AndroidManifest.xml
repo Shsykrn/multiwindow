@@ -13,9 +13,6 @@
             android:name=".berita"
             android:exported="false" />
         <activity
-            android:name=".Gogleactivity"
-            android:exported="false" />
-        <activity
             android:name=".loginactivity"
             android:exported="false" />
         <activity
